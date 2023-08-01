@@ -1,4 +1,4 @@
-# 💫 About Me:
+t# 💫 About Me:
 🔭 I’m currently working on JavaScript and TypeScript<br>📫 How to reach me: meesamturab@gmail.com<br>😄 Pronouns: he/him
 
 
@@ -24,7 +24,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=meesambukhari&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
 ![](https://visitcount.itsvg.in/api?id=MeesamBukhari&label=Profile%20Views&color=11&icon=1&pretty=true)
 
   ## 💰 You can help me by Donating
