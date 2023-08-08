@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 🔭 I’m currently working on JavaScript and TypeScript<br>📫 How to reach me: meesamturab@gmail.com<br>😄 Pronouns: he/him
 
 
