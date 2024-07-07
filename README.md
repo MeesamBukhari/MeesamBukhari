@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-👨‍💻 I'm currently working on JavaScript<br>
+👨‍💻 I'm currently working on TypeScript<br>
 🤝🏻 I'm looking to collaborate on React<br>
-📘 I'm currently learning Python<br>
+📘 I'm currently learning Angular<br>
 📧 How to reach me: meesambukhari1@outlook.com<br>
 😄 Pronouns: he/him
 
