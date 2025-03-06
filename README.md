@@ -44,9 +44,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MeesamBukhari&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MeesamBukhari&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeesamBukhari&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MeesamBukhari&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MeesamBukhari&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeesamBukhari&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
