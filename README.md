@@ -48,7 +48,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MeesamBukhari&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![Meesam's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=MeesamBukhari&theme=algolia)
 
 ### ✍️ Random Dev Quote
 
